@@ -1,13 +1,13 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "icon": "Weixin",
+    "name": "微信公众号",
+    "link": "https://mp.weixin.qq.com/s/g8RrY6m4D0WvWPGBY1ydPw"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "icon": "Tv",
+    "name": "影视主页",
+    "link": "https://ewwe.gq/"
   },
   {
     "icon": "CompactDisc",
@@ -15,23 +15,28 @@
     "link": "https://music.imsyy.top/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "EdgeLegacy",
+    "name": "黎哥主页",
+    "link": "https://www.lige.fit"
+  },
+  {
+    "icon": "Edge",
+    "name": "TvBox加密",
+    "link": "http://cron.qiqiv.cn/cron/abc/123/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "玩机教程",
+    "link": "https://search.smzdm.com/?c=home&s=换个姿势玩手机&v=a&mx_v=b"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
+    "icon": "Bold",
+    "name": "图标",
+    "link": "https://www.xicons.org"
+  },	
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "Cloud",
+    "name": "阿里云",
+    "link": "https://www.aliyun.com/"
   }
 ]
