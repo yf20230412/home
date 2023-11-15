@@ -5,7 +5,7 @@
     "link": "https://mp.weixin.qq.com/s/g8RrY6m4D0WvWPGBY1ydPw"
   },
   {
-    "icon": "Tv",
+    "icon": "DiceD6",
     "name": "影视主页",
     "link": "https://ewwe.gq/"
   },
@@ -15,27 +15,52 @@
     "link": "https://music.imsyy.top/"
   },
   {
-    "icon": "EdgeLegacy",
-    "name": "黎哥主页",
-    "link": "https://www.lige.fit"
+    "icon": "BookDead",
+    "name": "TvBox接口",
+    "link": "https://www.lige.fit/tvbox"
   },
   {
-    "icon": "Edge",
+    "icon": "EdgeLegacy",
     "name": "TvBox加密",
     "link": "http://cron.qiqiv.cn/cron/abc/123/"
   },
+  {
+    "icon": "Tv",
+    "name": "TvBox解密",
+    "link": "https://www.lige.fit/ua"
+  },	
   {
     "icon": "Cloud",
     "name": "阿里云",
     "link": "https://www.aliyun.com/"
   },
   {
+    "icon": "Fan",
+    "name": "MD5校验",
+    "link": "http://www.metools.info/other/o21.html"
+  },
+  {
+    "icon": "BalanceScaleLeft",
+    "name": "JSON校验",
+    "link": "https://www.sojson.com/"
+  },	
+  {
+    "icon": "BattleNet",
+    "name": "Unicode汉字互转",
+    "link": "https://tool.ip138.com/ascii/"
+  },	
+  {
+    "icon": "FileCsv",
+    "name": "图片转Base64",
+    "link": "http://www.jsons.cn/img2base64/"
+  },	
+  {
     "icon": "Bold",
     "name": "图标",
     "link": "https://www.xicons.org"
   },	
   {
-    "icon": "Book",
+    "icon": "Cannabis",
     "name": "玩机教程",
     "link": "https://search.smzdm.com/?c=home&s=换个姿势玩手机&v=a&mx_v=b"
   }
