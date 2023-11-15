@@ -60,7 +60,7 @@ const getHitokotoData = () => {
         }),
       });
       hitokotoData.text = "这里应该显示一句话";
-      hitokotoData.from = "無名";
+      hitokotoData.from = "小鱼";
     });
 };
 

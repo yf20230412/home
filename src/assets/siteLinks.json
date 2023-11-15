@@ -25,9 +25,9 @@
     "link": "http://cron.qiqiv.cn/cron/abc/123/"
   },
   {
-    "icon": "Book",
-    "name": "玩机教程",
-    "link": "https://search.smzdm.com/?c=home&s=换个姿势玩手机&v=a&mx_v=b"
+    "icon": "Cloud",
+    "name": "阿里云",
+    "link": "https://www.aliyun.com/"
   },
   {
     "icon": "Bold",
@@ -35,8 +35,8 @@
     "link": "https://www.xicons.org"
   },	
   {
-    "icon": "Cloud",
-    "name": "阿里云",
-    "link": "https://www.aliyun.com/"
+    "icon": "Book",
+    "name": "玩机教程",
+    "link": "https://search.smzdm.com/?c=home&s=换个姿势玩手机&v=a&mx_v=b"
   }
 ]
