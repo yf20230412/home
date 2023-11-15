@@ -1,16 +1,5 @@
 [
-  {
-    "name": "Github",
-    "icon": "/images/icon/github.png",
-    "tip": "去 Github 看看",
-    "url": "https://github.com/yf20230412"
-  },
-  {
-    "name": "BiliBili",
-    "icon": "/images/icon/bilibili.png",
-    "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/3494361297848663"
-  },
+
   {
     "name": "QQ",
     "icon": "/images/icon/qq.png",
@@ -18,16 +7,34 @@
     "url": "https://wpa.qq.com/msgrd?v=3&uin=1010164222&site=qq&menu=yes"
   },
   {
-    "name": "Email",
-    "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
-    "url": "mailto:1010164222@qq.com"
-  },
+    "name": "微信公众号",
+    "icon": "/images/icon/WeChat.png",
+    "tip": "有什么事吗",
+    "url": "https://mp.weixin.qq.com/s/g8RrY6m4D0WvWPGBY1ydPw"
+  },	
   {
     "name": "SinaWeibo",
     "icon": "/images/icon/weibo.png",
     "tip": "你懂的 ~",
     "url": "https://weibo.com/u/7338063350"
+  },	
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "来封 Email ~",
+    "url": "mailto:1010164222@qq.com"
+  },	
+  {
+    "name": "BiliBili",
+    "icon": "/images/icon/bilibili.png",
+    "tip": "(゜-゜)つロ 干杯 ~",
+    "url": "https://space.bilibili.com/3494361297848663"
+  },	
+  {
+    "name": "Github",
+    "icon": "/images/icon/github.png",
+    "tip": "去 Github 看看",
+    "url": "https://github.com/yf20230412"
   },
   {
     "name": "Telegram",
