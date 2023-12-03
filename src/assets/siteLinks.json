@@ -13,27 +13,52 @@
     "icon": "EditRegular",
     "name": "TvBox解密",
     "link": "https://www.lige.fit/ua"
-  },		
+  },	
   {
-    "icon": "MapMarkedAlt",
-    "name": "高德开放平台",
-    "link": "https://lbs.amap.com/api/webservice/summary"
-  },
+    "icon": "GooglePay",
+    "name": "谷歌商店",
+    "link": "https://play.google.com/store/"
+  },	
   {
     "icon": "DiceD6",
     "name": "影视主页",
     "link": "https://ewwe.gq/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "CloudDownloadAlt",
+    "name": "蓝奏云软件分享",
+    "link": "https://yf2023.lanzoum.com/b058ockej"
   },
 
+  {
+    "icon": "Weixin",
+    "name": "微信公众号",
+    "link": "https://mp.weixin.qq.com/"
+  },	
+  {
+    "icon": "AppleAlt",
+    "name": "苹果软件分享",
+    "link": "https://yf2023.lanzoum.com/b058ocn5i"
+  },	
+  {
+    "icon": "Android",
+    "name": "安卓软件分享",
+    "link": "https://yf2023.lanzoum.com/b058ocngj"
+  },		
   {
     "icon": "Bookmark",
     "name": "爱达杂货铺",
     "link": "https://adzhp.vip"
+  },	
+  {
+    "icon": "Tv",
+    "name": "蛋蛋影视",
+    "link": "https://cddys.com"
+  },	
+  {
+    "icon": "Desktop",
+    "name": "智能电视网",
+    "link": "https://www.znds.com/"
   },		
   {
     "icon": "BalanceScaleLeft",
@@ -47,31 +72,27 @@
   },	
   {
     "icon": "Fan",
-    "name": "Unicode转码",
+    "name": "URL解码编码",
     "link": "https://tool.ip138.com/urlencode/"
+  },	
+  {
+    "icon": "Briefcase",
+    "name": "SG工具箱",
+    "link": "https://tools.shangui.cc/"
   },	
   {
     "icon": "FileCsv",
     "name": "图片转Base64",
     "link": "http://www.jsons.cn/img2base64/"
   },	
+	
+  {
+    "icon": "StarAndCrescent",
+    "name": "对称加密",
+    "link": "https://tool.ip138.com/aesdes/"
+  },		
 
-  {
-    "icon": "Weixin",
-    "name": "微信公众号",
-    "link": "https://mp.weixin.qq.com/"
-  },	
-  {
-    "icon": "GooglePay",
-    "name": "谷歌商店",
-    "link": "https://play.google.com/store/"
-  },
-
-  {
-    "icon": "Tv",
-    "name": "蛋蛋影视",
-    "link": "https://cddys.com"
-  },	
+	
   {
     "icon": "Book",
     "name": "文本去空格",
@@ -92,17 +113,18 @@
     "icon": "Book",
     "name": "文本字符换行",
     "link": "http://www.txttool.com/t/?id=MzQ3"
-  },	
+  },
   {
-    "icon": "BroadcastTower",
-    "name": "fastnat内网穿透",
-    "link": "https://fastnat.club:1443/login.html"
-  },	
+    "icon": "HddRegular",
+    "name": "路由器管理",
+    "link": "http://192.168.0.1/"
+  },		
   {
-    "icon": "Cloud",
-    "name": "阿里云",
-    "link": "https://www.aliyun.com/"
+    "icon": "MapMarkedAlt",
+    "name": "高德开放平台",
+    "link": "https://lbs.amap.com/api/webservice/summary"
   },	
+
   {
     "icon": "Apple",
     "name": "Apple ID",
@@ -112,6 +134,17 @@
     "icon": "ShareAlt",
     "name": "美区共享账户",
     "link": "https://id.fcjs.xyz/"
+  },
+  {
+    "icon": "BroadcastTower",
+    "name": "fastnat内网穿透",
+    "link": "https://fastnat.club:1443/login.html"
+  },		
+
+  {
+    "icon": "Markdown",
+    "name": "MT管理器",
+    "link": "https://binmt.lanzouy.com/b01bivkzc"
   },		
   {
     "icon": "Hammer",
@@ -124,26 +157,26 @@
     "link": "https://github.com/shadowsocksrr/shadowsocksr-android/releases"
   },	
   {
-    "icon": "Trademark",
-    "name": "MT管理器",
-    "link": "https://binmt.lanzouy.com/b01bivkzc"
-  },	
-  {
-    "icon": "HddRegular",
-    "name": "路由器管理",
-    "link": "http://192.168.0.1/"
-  },	
-  {
-    "icon": "Desktop",
-    "name": "智能电视网",
-    "link": "https://www.znds.com/"
-  },	
-  {
     "icon": "Disease",
     "name": "EMOJI符号大全",
     "link": "http://www.txttool.com/t/?id=Mjk3"
-  },			
-	
+  },		
+  {
+    "icon": "Barcode",
+    "name": "草料二维码",
+    "link": "https://cli.im/vcard"
+  },	
+  {
+    "icon": "Palette",
+    "name": "颜色代码转换",
+    "link": "https://www.bchrt.com/tools/hex-to-rgb/"
+  },	
+
+  {
+    "icon": "Cloud",
+    "name": "阿里云",
+    "link": "https://www.aliyun.com/"
+  },		
   {
     "icon": "RProject",
     "name": "图标",
@@ -154,4 +187,5 @@
     "name": "玩机教程",
     "link": "https://search.smzdm.com/?c=home&s=换个姿势玩手机&v=a&mx_v=b"
   }
+
 ]
